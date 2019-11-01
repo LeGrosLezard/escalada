@@ -5,6 +5,7 @@
 
 ------------------------------------ le sien
 
+si c impossible dire que c impossible y'a que 200 image pour 32 catégories, les images sont zoomés et des fois non
 
 finir le training si training marche
 
