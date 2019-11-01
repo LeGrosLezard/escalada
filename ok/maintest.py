@@ -82,7 +82,7 @@ for i in liste:
             crop = img[y-5:y+h+5, x-5:x+w+5]
             show_picture("crop", crop, 0, "")
 
-            cv2.imwrite("crop" + str(save) + ".png", crop)
+            #cv2.imwrite("crop" + str(save) + ".png", crop)
 
             save += 1
 
