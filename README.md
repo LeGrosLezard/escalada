@@ -13,7 +13,7 @@
 
 - bounding les pieces
 
-- faire un display avec les info
+
 
 
 
@@ -27,3 +27,5 @@
 - calculer la plus rapide
 
 - calculer la plus dure
+
+- faire un display avec les info
