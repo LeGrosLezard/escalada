@@ -14,3 +14,16 @@
 - bounding les pieces
 
 - faire un display avec les info
+
+
+
+
+
+
+-------------------------------
+
+- faire les distances entre chaque prise
+
+- calculer la plus rapide
+
+- calculer la plus dure
