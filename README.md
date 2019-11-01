@@ -9,6 +9,6 @@
 
 - supprimer le mur
 
-- bouding les pieces
+- bounding les pieces
 
 - faire un display avec les info
