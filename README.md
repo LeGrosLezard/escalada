@@ -1,11 +1,11 @@
 # escalada
 
 
-- télécharger les images
-
-- si y'en a assez en faire un classificateur
+- télécharger les images 
 
 - sinon les detecters via leur couleur
+
+    - utiliser le truk manuel
 
 - supprimer le mur
 
