@@ -7,7 +7,7 @@
 
     - utiliser le truk manuel
 
-- supprimer le mur
+- supprimer le mur soit par couleur soit par absdiff
 
 - bounding les pieces
 
