@@ -18,7 +18,9 @@ traiter les 8 images
 
       - vus que la qualité est hyper, les dégrader
 
--> en gros faut soit la vue du mur soit la vue des images
+-> en gros faut traiter les images sois camera/ mur soit camera/photo
+
+                                          
 
 
 
