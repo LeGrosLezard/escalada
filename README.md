@@ -1,5 +1,11 @@
 # escalada
 
+ok faire ca et explorer un autre truk !
+
+pour ce projet faire un design de fou !
+
+
+
 
 - télécharger les images 
 
@@ -8,8 +14,6 @@
 - les detecters via leur couleur
 
     - utiliser le truk manuel
-
-
 
 - bounding les pieces
 
