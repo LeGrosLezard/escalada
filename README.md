@@ -24,8 +24,11 @@
 
 - faire les distances entre chaque prise
 
-- calculer la plus rapide
+- calculer la surface en cm des pieces
 
-- calculer la plus dure
+- calculer la voie la plus rapide
+
+- calculer la voie la plus dure
 
 - faire un display avec les info
+
