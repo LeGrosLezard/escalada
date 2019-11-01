@@ -11,7 +11,7 @@ adapter les parametres selon l'heure (jle ferai)
 
 ------------------------------------ le sien
 
-on peut test le svm
+faire les plages de couleur si rouge, marron ,vert trouver un truk pour les verts
 
 mais sinon on peut faire couleur avec trackbar
 
