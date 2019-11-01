@@ -1,11 +1,23 @@
 # escalada
 
 
+par contre lui dire de faire avant: le trackbar pour etre sur.
 
+d'etre toujours a la meme distance...
+
+des photo de la salle durant son ouverture (jpense que les horraire sont restrinct vu la gueule du mur)
+
+adapter les parametres selon l'heure (jle ferai)
 
 ------------------------------------ le sien
 
-- absdiff mur en cours
+on peut test le svm
+
+mais sinon on peut faire couleur avec trackbar
+
+lui demander a quoi sert son projet (si c grave a cause des categories vertes)
+
+
 
 <br><br>
 
