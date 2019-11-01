@@ -14,7 +14,7 @@ traiter les 8 images
 
       - leur faire faire une rotation a toutes les images
 
-      - essayer de voir si on peut zoomer ou non
+      - essayer de voir si on peut zoomer ou non / si non réduire la taille + ajouter du border
 
       - vus que la qualité est hyper, les dégrader
 
