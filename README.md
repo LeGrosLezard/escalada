@@ -18,7 +18,7 @@ traiter les 8 images
 
       - vus que la qualité est hyper, les dégrader
 
--> en somme reproduire la vu depuis le mur sinon  reporduire les images depuis la vu du mur
+-> en gros faut soit la vue du mur soit la vue des images
 
 
 
