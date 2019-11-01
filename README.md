@@ -5,20 +5,25 @@
 
 ------------------------------------ le sien
 
-si c impossible dire que c impossible y'a que 200 image pour 32 catégories, les images sont zoomés et des fois non
+- absdiff mur en cours
+
+<br><br>
 
 
-test sur le mur mtn stp marche pcque le premier truk....
+traiter les 8 images
+
+      - leur faire faire une rotation a toutes les images
+
+      - essayer de voir si on peut zoomer ou non
+
+      - vus que la qualité est hyper, les dégrader
+
+-> en somme reproduire la vu depuis le mur
 
 
 
 
 
-finir le training si training marche
-
-   - absdiff mur
-
-sinon continuer le premier truk
 
 
 
