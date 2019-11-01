@@ -7,6 +7,13 @@
 
 si c impossible dire que c impossible y'a que 200 image pour 32 catégories, les images sont zoomés et des fois non
 
+
+test sur le mur mtn stp marche pcque le premier truk....
+
+
+
+
+
 finir le training si training marche
 
    - absdiff mur
