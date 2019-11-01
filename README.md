@@ -1,30 +1,22 @@
 # escalada
 
-ok faire ca et explorer un autre truk !
-
-pour ce projet faire un design de fou !
 
 
 
+------------------------------------ le sien
 
-- télécharger les images 
 
-- supprimer le mur soit par couleur soit par absdiff
+finir le training si training marche
 
-- les detecters via leur couleur
+   - absdiff mur
 
-    - utiliser le truk manuel
-
-- bounding les pieces
+sinon continuer le premier truk
 
 
 
 
 
-
-
-
--------------------------------
+------------------------------- mon projet pour ce projet faire un design de fou !
 
 - faire les distances entre chaque prise
 
