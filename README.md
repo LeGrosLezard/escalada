@@ -12,7 +12,7 @@ adapter les parametres selon l'heure (jle ferai)
 ------------------------------------ le sien
 
 
-elle veut faire une app de route... bah faut juste récupérer les dimensions et voila mais jvoulais faire la meme chose jpe laisser ou pas ?
+et voila j'aurai pas du demandé
 
 récupérer les dimensions en cm des pieces et la couleur et voila
 
