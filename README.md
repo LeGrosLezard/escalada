@@ -1,5 +1,6 @@
 # escalada
 
+arrow detecteur, roof captchat sté des mecs hin ?
 
 par contre lui dire de faire avant: le trackbar pour etre sur.
 
