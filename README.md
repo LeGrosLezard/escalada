@@ -9,39 +9,29 @@ des photo de la salle durant son ouverture (jpense que les horraire sont restrin
 
 adapter les parametres selon l'heure (jle ferai)
 
+
+
 ------------------------------------ le sien
 
+récupérer les carré et les supprimer
 
-et voila j'aurai pas du demandé
+finir la doc tout lui expliquer le programme
 
-récupérer les dimensions en cm des pieces et la couleur et voila
+le truk du haut
 
+pk on peut pas pour le classificateur
 
-<br><br>
-
-
-traiter les 8 images
-
-      - leur faire faire une rotation a toutes les images
-
-      - essayer de voir si on peut zoomer ou non / si non réduire la taille + ajouter du border
-
-      - vus que la qualité est hyper, les dégrader
-
--> en gros faut traiter les images sois camera/ mur soit camera/photo
-
-                                          
-
-
-
+lui expliqué comment faire
 
 
 
 <br><br><br><br><br><br>
 
 
+------------------------------------ le mien
 
-------------------------------- mon projet pour ce projet faire un design de fou !
+
+Récupérer les dimension
 
 - faire les distances entre chaque prise
 
