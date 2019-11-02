@@ -11,12 +11,10 @@ adapter les parametres selon l'heure (jle ferai)
 
 ------------------------------------ le sien
 
-faire les plages de couleur si rouge, marron ,vert trouver un truk pour les verts
 
-mais sinon on peut faire couleur avec trackbar
+elle veut faire une app de route... bah faut juste récupérer les dimensions et voila mais jvoulais faire la meme chose jpe laisser ou pas ?
 
-lui demander a quoi sert son projet (si c grave a cause des categories vertes)
-
+récupérer les dimensions en cm des pieces et la couleur et voila
 
 
 <br><br>
